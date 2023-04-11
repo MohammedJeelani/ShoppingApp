@@ -4,7 +4,7 @@ export const Register = () => {
   return (
     <div>
         <h2>
-            Sign Up
+            register for shopping app
         </h2>
     </div>
   )
