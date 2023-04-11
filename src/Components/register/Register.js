@@ -4,7 +4,7 @@ export const Register = () => {
   return (
     <div>
         <h2>
-            Register page
+            Sign Up
         </h2>
     </div>
   )
